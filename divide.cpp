@@ -7,4 +7,5 @@ int main()
     cin >> a >> b;
     c = b > 0 ? a / b : 0;
     cout << c << endl;
+    return 0;
 }
